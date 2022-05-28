@@ -78,5 +78,5 @@ class Intro
 - 🚀 Available for Freelance projects opportunities.
 ```
 <p align=center>
-<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true" alt="rietzche github stats" /></a>     <a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true" alt="rietzche github stats" /></a><a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true" /></a>
 </p>
