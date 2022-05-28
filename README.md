@@ -1,5 +1,10 @@
-# Hi from Indonesia 👋
-
+<h1 align=center> Hi from Indonesia 👋 </br> Harits Rahman Mazayamusthafa</h1>
+<p align=center>
+  <img src="https://img.shields.io/discord/980034204236668958?style=plastic" />
+  <img src="https://img.shields.io/github/followers/rietzche?style=plastic" />
+  <a href="https://github.com/sponsors/rietzche"><img src="https://img.shields.io/static/v1?label=Sponsor%20rietzche&message=%E2%9D%A4&logo=GitHub" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rietzche.rietzche" />
+</p>
 <!--
 **rietzche/rietzche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,5 +77,6 @@ class Intro
 - 🥱 I am currently working on backend:java,php|devops:gcp,aws.
 - 🚀 Available for Freelance projects opportunities.
 ```
-
-![](https://visitor-badge.laobi.icu/badge?page_id=rietzche.rietzche)
+<p align=center>
+<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true" alt="rietzche github stats" /></a>     <a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true" /></a>
+</p>
