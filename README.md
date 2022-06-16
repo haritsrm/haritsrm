@@ -60,8 +60,8 @@ class Intro
       'database' => 'postgresql|mysql|mongodb|sqlite|elasticsearch|redis'
     ];
     Development::misc = [
-      'devops' => 'gcp:gke,gcloudrun,gce|aws:ecs,s3|heroku',
-      'tools' => 'terminal',
+      'devops' => 'gcp:gke,gcloudrun,gce|aws:ecs,ec2,s3|heroku',
+      'tools' => 'terraform|cloud cli',
       'os' => 'mac-os'
     ];
     Development::experience = carbon('2017')->diffInYears();
@@ -78,5 +78,5 @@ class Intro
 - 🚀 Available for Freelance projects opportunities.
 ```
 <p align=center>
-<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="rietzche github stats" /></a><a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade" /></a>
+<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" alt="rietzche github stats" /></a><a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade&count_private=true" /></a>
 </p>
