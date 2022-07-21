@@ -1,4 +1,4 @@
-<h1 align=center> Hi from Indonesia 👋 </br> Harits Rahman Mazayamusthafa</h1>
+<h1 align=center> Hello World! 👋 </br> Harits Rahman Mazayamusthafa</h1>
 <p align=center>
   <img src="https://img.shields.io/discord/980034204236668958?style=flat" />
   <img src="https://img.shields.io/github/followers/rietzche?style=flat" />
