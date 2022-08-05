@@ -48,21 +48,21 @@ class Intro
   */
   public function __invoke(array $learning)
   {
-    Profile::name = 'Harits Rahman Mazayamusthafa';
+    Profile::name  = 'Harits Rahman Mazayamusthafa';
     Profile::alias = 'Rietzche';
     Profile::email = 'haritzrahman98@gmail.com'; // Email address is already taken
     
-    Media::instagram = Media::twitter = '@haritsrm';
+    Media::instagram = '@haritsrm';
     
     Development::langs = [
-      'backend' => 'php:laravel|javascript:node-js|java|python',
+      'backend'  => 'php:laravel|javascript:node-js|java|python',
       'frontend' => 'javascript:react-js,vue-js',
       'database' => 'postgresql|mysql|mongodb|sqlite|elasticsearch|redis'
     ];
     Development::misc = [
       'devops' => 'gcp:gke,gcloudrun,gce|aws:ecs,ec2,s3|heroku',
-      'tools' => 'terraform|cloud cli',
-      'os' => 'mac-os'
+      'tools'  => 'terraform|cloud cli',
+      'os'     => 'mac-os'
     ];
     Development::experience = carbon('2017')->diffInYears();
     
