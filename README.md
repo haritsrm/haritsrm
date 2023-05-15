@@ -1,12 +1,12 @@
 <h1 align=center> Hello World! 👋 </br> Harits Rahman Mazayamusthafa</h1>
 <p align=center>
   <img src="https://img.shields.io/discord/980034204236668958?style=flat" />
-  <img src="https://img.shields.io/github/followers/rietzche?style=flat" />
-  <a href="https://github.com/sponsors/rietzche"><img src="https://img.shields.io/static/v1?label=Sponsor%20rietzche&message=%E2%9D%A4&logo=GitHub" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rietzche.rietzche" />
+  <img src="https://img.shields.io/github/followers/haritsrm?style=flat" />
+  <a href="https://github.com/sponsors/haritsrm"><img src="https://img.shields.io/static/v1?label=Sponsor%haritsrm&message=%E2%9D%A4&logo=GitHub" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=haritsrm.haritsrm" />
 </p>
 <!--
-**rietzche/rietzche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haritsrm/haritsrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![](https://github.com/rietzche/rietzche/blob/main/header.png) -->
+<!-- ![](https://github.com/haritsrm/haritsrm/blob/main/header.png) -->
 
 <p align=center>
-<a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rietzche&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_owner=true" alt="rietzche github stats" /></a><a href="https://github.com/rietzche"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietzche&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade&count_private=true&langs_count=6" /></a>
+<a href="https://github.com/haritsrm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haritsrm&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_owner=true" alt="haritsrm github stats" /></a><a href="https://github.com/haritsrm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritsrm&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade&count_private=true&langs_count=6" /></a>
 </p>
 
 ```php
