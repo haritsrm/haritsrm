@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- ![](https://github.com/haritsrm/haritsrm/blob/main/header.png) -->
 
 <p align=center>
-<a href="https://github.com/haritsrm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haritsrm&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_owner=true" alt="haritsrm github stats" /></a><a href="https://github.com/haritsrm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritsrm&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade&count_private=true&langs_count=6" /></a>
+<a href="https://github.com/haritsrm"><img align="center" src="https://github-stats-haritsrms-projects.vercel.app/api?username=haritsrm&show_icons=true&theme=nord&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_owner=true" alt="haritsrm github stats" /></a><a href="https://github.com/haritsrm"><img align="center" src="https://github-stats-haritsrms-projects.vercel.app/api/top-langs/?username=haritsrm&layout=compact&theme=nord&hide_border=true&hide=CSS,HTML,Blade&count_private=true&langs_count=6" /></a>
 </p>
 
 ```php
