@@ -15,6 +15,10 @@ I'm a passionate developer always looking for new challenges and opportunities t
 - 📫 How to reach me: [haritzrahman98@gmail.com](mailto:haritzrahman98@gmail.com)
 - ⚡ Fun fact: I love exploring new technologies and traveling in my free time.
 
+## 📜 Certifications
+
+[![AWS Architecting Badge](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/dcad6163-eafb-4daa-946f-c388a920e1c6)
+
 ## 🛠️ Technologies & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
