@@ -9,7 +9,7 @@ I'm a passionate developer always looking for new challenges and opportunities t
 
 ## 🚀 About Me
 
-- 💼 I'm an SRE at Traveloka.
+- 💼 I'm a Site Reliability Engineer (SRE) at Traveloka.
 - 🤝 I’m looking to collaborate on exciting projects related to cloud computing and DevOps.
 - 💬 Ask me about AWS, cloud infrastructure, and DevOps best practices.
 - 📫 How to reach me: [haritzrahman98@gmail.com](mailto:haritzrahman98@gmail.com)
