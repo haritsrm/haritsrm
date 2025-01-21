@@ -18,6 +18,8 @@ I'm a passionate developer always looking for new challenges and opportunities t
 ## 📜 Certifications
 
 [![AWS Architecting Badge](https://images.credly.com/size/90x90/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/dcad6163-eafb-4daa-946f-c388a920e1c6)
+[![AWS Solutions Architect Badge](https://images.credly.com/size/90x90/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png)](https://www.credly.com/badges/fccedbed-ddca-4b86-983c-b6895251a1ba)
+[![AWS Cloud Practitioner Badge](https://images.credly.com/size/90x90/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/212cfcaa-6e08-44c1-a4d4-086d003905b9)
 
 ## 🛠️ Technologies & Tools
 
