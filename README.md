@@ -17,11 +17,13 @@ I'm a passionate developer always looking for new challenges and opportunities t
 
 ## 📜 Badges
 
-[![AWS Architecting Badge](https://images.credly.com/size/60x60/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/dcad6163-eafb-4daa-946f-c388a920e1c6)
-[![AWS Solutions Architect Badge](https://images.credly.com/size/90x90/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob)](https://www.credly.com/badges/fccedbed-ddca-4b86-983c-b6895251a1ba)
-[![AWS Elastic Kubernetes Service Badge](https://images.credly.com/size/90x90/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob)](https://www.credly.com/badges/3f4fd066-7579-446c-9ba8-6692f841251a)
-[![AWS Machine Learning Badge](https://images.credly.com/size/90x90/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob)](https://www.credly.com/badges/10c7ca57-1e59-4034-a88c-83bcc5c75c03)
-[![AWS Cloud Practitioner Badge](https://images.credly.com/size/90x90/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/212cfcaa-6e08-44c1-a4d4-086d003905b9)
+<p>
+<a href="https://www.credly.com/badges/dcad6163-eafb-4daa-946f-c388a920e1c6"><img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Architecting Badge" width="90" height="90" /></a>
+<a href="https://www.credly.com/badges/fccedbed-ddca-4b86-983c-b6895251a1ba"><img src="https://images.credly.com/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" alt="AWS Solutions Architect Badge" width="90" height="90" /></a>
+<a href="https://www.credly.com/badges/3f4fd066-7579-446c-9ba8-6692f841251a"><img src="https://images.credly.com/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" alt="AWS Elastic Kubernetes Service Badge" width="90" height="90" /></a>
+<a href="https://www.credly.com/badges/10c7ca57-1e59-4034-a88c-83bcc5c75c03"><img src="https://images.credly.com/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob" alt="AWS Machine Learning Badge" width="90" height="90" /></a>
+<a href="https://www.credly.com/badges/212cfcaa-6e08-44c1-a4d4-086d003905b9"><img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Practitioner Badge" width="90" height="90" /></a>
+</p>
 
 ## 🛠️ Technologies & Tools
 
